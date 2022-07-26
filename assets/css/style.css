@@ -1,0 +1,21 @@
+/*Police Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;600&display=swap');
+
+
+*{font-family: 'Poppins', sans-serif;}
+
+body {
+background-color: silver ;
+color: black;
+
+}
+header {
+    font-family: 'Poppins', 'Semibold 600'; 
+
+}
+
+h1, h2 {
+color: black;
+font-family: mont;
+
+}
