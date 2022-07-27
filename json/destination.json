@@ -1,7 +1,7 @@
 
 	[
 	 {
-		"id" : 1,
+		"id" : 2,
 		"picture" : "FujiyoshidaAsie.jpg",
 		"title" : "Fujiyoshida, au pied du Mont Fuji",
 		"description" : "Fujiyoshida est une ville située dans la préfecture de Yamanashi, dans la région des Cinq Lacs du Mont Fuji au centre de l'île de Honshu au Japon.",
@@ -9,7 +9,7 @@
 		"continents_name" : "Asie"
 	},
 	{
-		"id" : 2,
+		"id" : 1,
 		"picture" : "KebumenIndonesie.jpg",
 		"title" : "Kebumen au coeur de l'Indonesie",
 		"description" : null,
