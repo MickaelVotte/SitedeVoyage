@@ -9,13 +9,39 @@ background-color: silver ;
 color: black;
 
 }
-header {
-    font-family: 'Poppins', 'Semibold 600'; 
+
+/*Nav barre*/
+
+nav {
+justify-content: center;
 
 }
 
-h1, h2 {
-color: black;
-font-family: mont;
+
+button {
+font-size: 1rem;
+}
+
+/*Footer*/
+
+
+footer ul {
+    display: inline-block;
+}
+
+h3 {
+font-size: 1.5rem;
+text-align: left;
+font-weight: 600;
+}
+
+ul {
+font-size: 0.85rem;
+text-align: left;
+font-weight: 600;
+}
+
+a {
+display: inline-block;
 
 }
